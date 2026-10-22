@@ -27,7 +27,7 @@ git -C "$SCRIPT_DIR" fetch origin main || fail '无法连接或登录 GitHub。�
 git -C "$SCRIPT_DIR" merge-base --is-ancestor origin/main HEAD || fail 'GitHub 上有尚未合入的修改。请先在 GitHub Desktop 使用 Fetch origin / Pull origin，再重试。脚本不会覆盖远端历史。'
 
 paths=()
-for path in index.html app.js styles.css data-snapshot.js data images README.md .nojekyll 更新步骤.md GitHub同步设置.md 同步到GitHub.command; do
+for path in index.html app.js styles.css data-snapshot.js data images README.md .nojekyll 更新步骤.md 观剧维护约定.md GitHub同步设置.md 同步到GitHub.command; do
   if [[ -e "$SCRIPT_DIR/$path" ]]; then paths+=("$path"); fi
 done
 git -C "$SCRIPT_DIR" add -- "${paths[@]}"
