@@ -1,0 +1,105 @@
+{
+  "cutoff": 35,
+  "episodeScope": "1–35；26为采访与回顾。名单包含有名角色和可确认的主要出场；不为无名群众虚构姓名。",
+  "episodeSources": [
+    {
+      "episode": 12,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_236"
+    },
+    {
+      "episode": 13,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_237"
+    },
+    {
+      "episode": 14,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_238"
+    },
+    {
+      "episode": 15,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_239"
+    },
+    {
+      "episode": 16,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_240"
+    },
+    {
+      "episode": 17,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_241"
+    },
+    {
+      "episode": 18,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_242"
+    },
+    {
+      "episode": 19,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_243"
+    },
+    {
+      "episode": 20,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_244"
+    },
+    {
+      "episode": 21,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_245"
+    },
+    {
+      "episode": 22,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_246"
+    },
+    {
+      "episode": 23,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_247"
+    },
+    {
+      "episode": 24,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_248"
+    },
+    {
+      "episode": 25,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_249"
+    },
+    {
+      "episode": 26,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_250"
+    },
+    {
+      "episode": 27,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_251"
+    },
+    {
+      "episode": 28,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_252"
+    },
+    {
+      "episode": 29,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_253"
+    },
+    {
+      "episode": 30,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_254"
+    },
+    {
+      "episode": 31,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_255"
+    },
+    {
+      "episode": 32,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_256"
+    },
+    {
+      "episode": 33,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_257"
+    },
+    {
+      "episode": 34,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_258"
+    },
+    {
+      "episode": 35,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_259"
+    }
+  ],
+  "portraitSource": "Narutopedia；优先使用初代图片，缺少时按现有照片显示。",
+  "relationshipPolicy": "起始集数是观众获知关系的集数；已变化关系保留历史结束集数。",
+  "missingPhotos": []
+}
