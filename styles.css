@@ -34,3 +34,6 @@
 @media(prefers-reduced-motion:reduce){.collection-dock,.dock-panel{transition:none}}
 
 .jutsu-notes{border-top:1px solid #243c361a;margin-top:13px;padding-top:11px;position:relative}.jutsu-label{font-size:10px;color:var(--muted);margin-bottom:7px;letter-spacing:.5px}.jutsu-chip{display:inline-block;border:1px solid #243c3618;border-radius:4px;background:#ffffff66;padding:2px 7px;margin:0 4px 5px 0;font-size:11px;line-height:1.7}.jutsu-notes small{font-size:11px}.jutsu-chip small{font-size:9px}.card-body .jutsu-notes{padding-right:0}.card-body{height:100%}
+
+/* Personal watch notes: episodes that moved the viewer to tears. */
+.ep.tearful{background:#dceef8;border-color:#b7d4e6;color:#284b63}.ep.tearful:hover{background:#cce3f2;border-color:#7da8c2}.ep.tearful.active{background:#dceef8;border-color:#527c98;color:#183e58;box-shadow:inset 0 0 0 1px #527c98;font-weight:700}
