@@ -1,7 +1,7 @@
 'use strict';
 (() => {
 const TOTAL = 720;
-const TEARFUL_EPISODES = new Set([1,2,11,12,13,16,19,32,41,49,50,55]);
+const TEARFUL_EPISODES = new Set([1,2,11,12,16,19,32,41,49,50,55]);
 const FILES = ['characters','episodes','appearances','relationships','stories','jutsu'];
 const HEADERS = {
  characters:['人物','首次集数','地域','当前活动地','立场','戏份','身份','介绍','关系关键词','照片_Part1','照片_Part2','照片_NewEra','资料来源'],
