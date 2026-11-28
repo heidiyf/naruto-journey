@@ -1,6 +1,6 @@
 {
-  "cutoff": 55,
-  "episodeScope": "1–55；含回忆、仅声音及可确认的主要出场，不虚构无名人物。并足雷同依据来源页补录第3集短暂登场。小樱母亲本阶段只记声音，照片取自后续时期。",
+  "cutoff": 63,
+  "episodeScope": "1–63；守鹤在58集仅被提及，首次完整实体出场不提前纳入；蛤蟆文太依据来源补录开篇1集。会场的四代风影按当前所见身份记录，不揭示后续身份剧情。",
   "episodeSources": [
     {
       "episode": 12,
@@ -197,6 +197,46 @@
       "episode": 55,
       "url": "https://naruto-official.com/en/anime/naruto1/list/01_279",
       "detailUrl": "https://naruto.fandom.com/wiki/A_Feeling_of_Yearning,_a_Flower_Full_of_Hope"
+    },
+    {
+      "episode": 56,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_280",
+      "detailUrl": "https://naruto.fandom.com/wiki/Live_or_Die:_Risk_it_All_to_Win_it_All!"
+    },
+    {
+      "episode": 57,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_281",
+      "detailUrl": "https://naruto.fandom.com/wiki/He_Flies!_He_Jumps!_He_Lurks!_Chief_Toad_Appears!"
+    },
+    {
+      "episode": 58,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_282",
+      "detailUrl": "https://naruto.fandom.com/wiki/Hospital_Besieged:_The_Evil_Hand_Revealed!"
+    },
+    {
+      "episode": 59,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_283",
+      "detailUrl": "https://naruto.fandom.com/wiki/The_Final_Rounds:_Rush_to_the_Battle_Arena!"
+    },
+    {
+      "episode": 60,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_284",
+      "detailUrl": "https://naruto.fandom.com/wiki/Byakugan_vs._Shadow_Clone_Technique!"
+    },
+    {
+      "episode": 61,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_285",
+      "detailUrl": "https://naruto.fandom.com/wiki/Ultimate_Defence:_Zero_Blind_Spot!"
+    },
+    {
+      "episode": 62,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_286",
+      "detailUrl": "https://naruto.fandom.com/wiki/A_Failure%27s_True_Power"
+    },
+    {
+      "episode": 63,
+      "url": "https://naruto-official.com/en/anime/naruto1/list/01_287",
+      "detailUrl": "https://naruto.fandom.com/wiki/Hit_it_or_Quit_it:_The_Final_Rounds_Get_Complicated!"
     }
   ],
   "portraitSource": "Narutopedia 人物资料框；按 Part I、Part II、New Era 标签记录。Parts I-II 共用图；Vortex 归入 New Era。无时期标签时保留可用照片。",
@@ -233,7 +273,24 @@
     "https://naruto.fandom.com/wiki/Genma_Shiranui",
     "https://naruto.fandom.com/wiki/Koharu_Utatane",
     "https://naruto.fandom.com/wiki/Raid%C5%8D_Namiashi",
-    "https://naruto.fandom.com/wiki/Mebuki_Haruno"
+    "https://naruto.fandom.com/wiki/Mebuki_Haruno",
+    "https://naruto.fandom.com/wiki/Daichi",
+    "https://naruto.fandom.com/wiki/Futaba",
+    "https://naruto.fandom.com/wiki/Hibari",
+    "https://naruto.fandom.com/wiki/K%C5%8Dji",
+    "https://naruto.fandom.com/wiki/Matsuri_(Konoha)",
+    "https://naruto.fandom.com/wiki/Nobori",
+    "https://naruto.fandom.com/wiki/Gamabunta",
+    "https://naruto.fandom.com/wiki/Wind_Daimy%C5%8D_(Part_I)",
+    "https://naruto.fandom.com/wiki/Rasa",
+    "https://naruto.fandom.com/wiki/Shukaku",
+    "https://naruto.fandom.com/wiki/Ch%C5%8Dza_Akimichi",
+    "https://naruto.fandom.com/wiki/Shikaku_Nara",
+    "https://naruto.fandom.com/wiki/Inoichi_Yamanaka",
+    "https://naruto.fandom.com/wiki/Hy%C5%ABga_Elder",
+    "https://naruto.fandom.com/wiki/Hizashi_Hy%C5%ABga",
+    "https://naruto.fandom.com/wiki/Head_Ninja_of_Kumogakure",
+    "https://naruto.fandom.com/wiki/Kanp%C5%8D"
   ],
-  "updatedAt": "2026-11-25"
+  "updatedAt": "2026-11-28"
 }
